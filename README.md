@@ -4,7 +4,7 @@ _This API manages restaurant information about users, meals, orders and reviews,
 
 ##INSTALLED LIBRARIES OR TOOLS
 
-##### NOTE: _Before running the tools and libraries, clone the project that is in the following path ---> https://github.com/castilloxavie/appi-motorcycles, keep in mind to clone the env.temolate file and rename it .env and add the variables of environment_
+##### NOTE: _Before running the tools and libraries, clone the project that is in the following path ---> https://github.com/luifercat/MEALS.git, keep in mind to clone the env.temolate file and rename it .env and add the variables of environment_
 
 sh
 npm init -y
